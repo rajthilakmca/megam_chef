@@ -29,7 +29,6 @@ program retrieves it and executes them.
 ### Scala
 
 
-
 > Add this dependency in `build.sbt`
 
 ```xml
